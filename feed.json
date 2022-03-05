@@ -1,0 +1,178 @@
+{
+  "providerName": "Company Name",
+  "lastUpdated": "2017-07-29T12:00:00+00:05",
+  "language": "en",
+  "categories": [
+    {
+      "name": "Featured Content",
+      "playlistName": "featured content",
+      "order": "manual"
+    },
+    {
+      "name": "Season 14",
+      "playlistName": "14",
+      "order": "manual"
+    },
+    {
+      "name": "Season 13",
+      "playlistName": "13",
+      "order": "manual"
+    },
+    {
+      "name": "Cool Short Form Videos",
+      "playlistName": "shortform",
+      "order": "manual"
+    },
+    {
+      "name": "Cooler Short Form Videos",
+      "playlistName": "shorterform",
+      "order": "manual"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "featured content",
+      "itemIds": [
+        "sr_1401",
+        "ss_0102",
+        "ssa_0102"
+      ]
+    },
+    {
+      "name": "14",
+      "itemIds": [
+        "sr_1401"
+      ]
+    },
+    {
+      "name": "13",
+      "itemIds": [
+        "sr_1301",
+        "sr_1302"
+      ]
+    },
+    {
+      "name": "shortform",
+      "itemIds": [
+        "ss_0101",
+        "ss_0102"      
+      ]
+    },
+    {
+      "name": "shorterform",
+      "itemIds": [
+        "ssa_0101"
+      ]
+    }
+  ],
+    "shortFormVideos": [
+            {
+              "id": "sr_1301",
+              "title": "Season 13: Spring",
+              "content": {
+                "dateAdded": "2016-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 3016
+              },
+              "thumbnail": "https://thumnaillink.jpg",
+              "shortDescription": "Spring Edition",
+              "releaseDate": "2016-04-15T22:21:37+00:05"
+            },
+            {
+              "id": "sr_1302",
+              "title": "Season 13: Summer",
+              "content": {
+                "dateAdded": "2017-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 2913
+              },
+              "thumbnail": "https://thumbnaillink",
+              "shortDescription": "Summer Edition",
+              "releaseDate": "2016-06-15T22:21:37+00:05"
+            },
+            {
+              "id": "sr_1401",
+              "title": "Season 14: Spring",
+              "content": {
+                "dateAdded": "2017-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 2928
+              },
+              "thumbnail": "https://imagelink",
+              "shortDescription": "Spring Edition",
+              "releaseDate": "2017-04-15T22:21:37+00:05"
+            },
+            {
+              "id": "ssa_0101",
+              "title": "Cool Short Form Video",
+              "content": {
+                "dateAdded": "2017-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 1684
+              },
+              "thumbnail": "https://imagelink",
+              "shortDescription": "Description",
+              "releaseDate": "2017-04-15T22:21:37+00:05"
+            },
+            {
+              "id": "ssa_0102",
+              "title": "Cool Short Form",
+              "content": {
+                "dateAdded": "2017-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 1588
+              },
+              "thumbnail": "https://imagelink",
+              "shortDescription": "Description",
+              "releaseDate": "2017-04-15T22:21:37+00:05"
+            },
+            {
+              "id": "ss_0101",
+              "title": "Cooler Short Form Video",
+              "content": {
+                "dateAdded": "2017-04-15T22:21:37+00:05",
+                "videos": [
+                  {
+                    "url": "https://vimeolink",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "duration": 3307
+              },
+              "thumbnail": "https://imagelink",
+              "shortDescription": "Description",
+              "releaseDate": "2017-04-15T22:21:37+00:05"
+            }
+      ]
+}
