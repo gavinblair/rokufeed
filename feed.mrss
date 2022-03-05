@@ -1,0 +1,17 @@
+<item>
+  <guid>https://example.org/cdn/video/vaaaXaaXzzz</guid>
+  <pubDate>2016-09-07T09:42:31+00:00</pubDate>
+  <media:title>The Best Show Ever</media:title>
+  <media:description>So long, and thanks for all the fish.</media:description>
+  <media:category>cooking</media:category>
+  <media:category>reality</media:category>
+  <media:thumbnail url="http://example.org/cdn/thumbs/42/lkmfaAAmA.jpg" />
+  <media:content
+   url="https://example.org/videos/your-video-id.mp4"
+   duration="74.74"
+   bitrate="2500"
+   language="en-us" />
+  <media:subTitle
+    lang="en-us"
+    href="http://www.example.org/cdn/subtitles/subtitle.srt" />
+</item>
