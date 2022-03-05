@@ -7,34 +7,34 @@
       "name": "Featured Content",
       "playlistName": "featured content",
       "order": "manual"
-    },
+    }
   ],
   "playlists": [
     {
       "name": "featured content",
       "itemIds": [
-        "sr_1301",
+        "sr_1301"
       ]
-    },
+    }
   ],
-    "shortFormVideos": [
-            {
-              "id": "sr_1301",
-              "title": "Season 13: Spring",
-              "content": {
-                "dateAdded": "2016-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 3016
-              },
-              "thumbnail": "https://file-examples-com.github.io/uploads/2017/10/file_example_PNG_500kB.png",
-              "shortDescription": "Spring Edition",
-              "releaseDate": "2016-04-15T22:21:37+00:05"
-            },
-      ]
+  "shortFormVideos": [
+    {
+      "id": "sr_1301",
+      "title": "Season 13: Spring",
+      "content": {
+        "dateAdded": "2016-04-15T22:21:37+00:05",
+        "videos": [
+          {
+            "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 3016
+      },
+      "thumbnail": "https://file-examples-com.github.io/uploads/2017/10/file_example_PNG_500kB.png",
+      "shortDescription": "Spring Edition",
+      "releaseDate": "2016-04-15T22:21:37+00:05"
+    }
+  ]
 }
