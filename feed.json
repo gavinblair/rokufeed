@@ -73,106 +73,16 @@
                 "dateAdded": "2016-04-15T22:21:37+00:05",
                 "videos": [
                   {
-                    "url": "https://www.youtube.com/watch?v=QCwA-OOMWZQ",
+                    "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
                     "quality": "HD",
                     "videoType": "HLS"
                   }
                 ],
                 "duration": 3016
               },
-              "thumbnail": "https://i.ytimg.com/vi/QCwA-OOMWZQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAELhbQmbXeTGkUoxW49pa0UcfHxA",
+              "thumbnail": "https://file-examples-com.github.io/uploads/2017/10/file_example_PNG_500kB.png",
               "shortDescription": "Spring Edition",
               "releaseDate": "2016-04-15T22:21:37+00:05"
             },
-            {
-              "id": "sr_1302",
-              "title": "Season 13: Summer",
-              "content": {
-                "dateAdded": "2017-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://vimeolink",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 2913
-              },
-              "thumbnail": "https://thumbnaillink",
-              "shortDescription": "Summer Edition",
-              "releaseDate": "2016-06-15T22:21:37+00:05"
-            },
-            {
-              "id": "sr_1401",
-              "title": "Season 14: Spring",
-              "content": {
-                "dateAdded": "2017-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://vimeolink",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 2928
-              },
-              "thumbnail": "https://imagelink",
-              "shortDescription": "Spring Edition",
-              "releaseDate": "2017-04-15T22:21:37+00:05"
-            },
-            {
-              "id": "ssa_0101",
-              "title": "Cool Short Form Video",
-              "content": {
-                "dateAdded": "2017-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://vimeolink",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 1684
-              },
-              "thumbnail": "https://imagelink",
-              "shortDescription": "Description",
-              "releaseDate": "2017-04-15T22:21:37+00:05"
-            },
-            {
-              "id": "ssa_0102",
-              "title": "Cool Short Form",
-              "content": {
-                "dateAdded": "2017-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://vimeolink",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 1588
-              },
-              "thumbnail": "https://imagelink",
-              "shortDescription": "Description",
-              "releaseDate": "2017-04-15T22:21:37+00:05"
-            },
-            {
-              "id": "ss_0101",
-              "title": "Cooler Short Form Video",
-              "content": {
-                "dateAdded": "2017-04-15T22:21:37+00:05",
-                "videos": [
-                  {
-                    "url": "https://vimeolink",
-                    "quality": "HD",
-                    "videoType": "HLS"
-                  }
-                ],
-                "duration": 3307
-              },
-              "thumbnail": "https://imagelink",
-              "shortDescription": "Description",
-              "releaseDate": "2017-04-15T22:21:37+00:05"
-            }
       ]
 }
