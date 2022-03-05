@@ -1,5 +1,5 @@
 {
-  "providerName": "Company Name",
+  "providerName": "Gavin Blair",
   "lastUpdated": "2017-07-29T12:00:00+00:05",
   "language": "en",
   "categories": [
@@ -73,14 +73,14 @@
                 "dateAdded": "2016-04-15T22:21:37+00:05",
                 "videos": [
                   {
-                    "url": "https://vimeolink",
+                    "url": "https://www.youtube.com/watch?v=QCwA-OOMWZQ",
                     "quality": "HD",
                     "videoType": "HLS"
                   }
                 ],
                 "duration": 3016
               },
-              "thumbnail": "https://thumnaillink.jpg",
+              "thumbnail": "https://i.ytimg.com/vi/QCwA-OOMWZQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAELhbQmbXeTGkUoxW49pa0UcfHxA",
               "shortDescription": "Spring Edition",
               "releaseDate": "2016-04-15T22:21:37+00:05"
             },
